@@ -5,7 +5,7 @@ export default function PreviewStore() {
       <p className="mb-12 text-gray-600">
         واجهة عصرية تخلي منتجاتك تبان بشكل احترافي قدام العملاء
       </p>
-      <div className="max-w-4xl mx-auto rounded-2xl overflow-hidden px-36">
+      <div className="max-w-4xl mx-auto rounded-2xl overflow-hidden px-16">
         <img src="/store.webp" alt="Store Preview" />
       </div>
     </section>
