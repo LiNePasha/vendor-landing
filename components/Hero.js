@@ -20,7 +20,7 @@ export default function Hero() {
         transition={{ duration: 1 }}
         className="relative z-10 max-w-4xl"
       >
-        <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
+        <h1 className="text-3xl md:text-6xl font-extrabold mb-6 leading-[1.5]">
           افتح متجرك مجاناً 🚀  
           على أكبر ماركت بليس للموتوسيكلات والأسكوتر في مصر
         </h1>
