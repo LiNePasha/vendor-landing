@@ -51,7 +51,6 @@ export default function Hero() {
               whileHover={{ scale: 1.05 }}
               className="bg-white text-gray-900 rounded-xl shadow-md p-4 flex items-center justify-center gap-3 font-bold"
             >
-              <span className="text-2xl">🏍️</span>
               <p>{brand}</p>
             </motion.div>
           ))}
